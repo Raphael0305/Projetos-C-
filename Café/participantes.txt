@@ -1,0 +1,15 @@
+=============================
+ID: 1
+Nome: raphael
+Nome: 2
+Ano de ingresso: 2024
+Curso: Desenvolvimento de Software
+=============================
+=============================
+ID: 1
+Nome: raaf
+Nome: 2
+Ano de ingresso: 2
+Curso: SI 
+
+=============================
